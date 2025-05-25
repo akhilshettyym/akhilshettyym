@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, I'm Akhil 👋
 
-<!--
-**akhilshettyym/akhilshettyym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer passionate about building full-stack apps, exploring AI integrations, and optimizing user interfaces.
 
-Here are some ideas to get you started:
+### 🚀 Projects
+- 🔹 [BABYSPHERE](https://github.com/akhilshettyym/BABYSPHERE-2.0)
+- 🔹 [Web Dev Snippets](https://github.com/akhilshettyym/Web-Dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+React · Next.js · Firebase · Java · Tailwind CSS · Convex · PostgreSQL · Git
+
+### 📫 Connect with me
+[LinkedIn](https://linkedin.com/in/YOUR-PROFILE) • [Twitter](https://twitter.com/YOUR-HANDLE)
