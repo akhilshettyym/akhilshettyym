@@ -1,13 +1,23 @@
-# Hi there, I'm Akhil 👋
+# Hi there, I'm Akhil Shetty M! 👋
 
-I'm a developer passionate about building full-stack apps, exploring AI integrations, and optimizing user interfaces.
+**FULL-STACK DEVELOPER | UI/UX DESIGNER | TECH ENTHUSIAST | GRAPHIC DESIGNER**
 
-### 🚀 Projects
-- 🔹 [BABYSPHERE](https://github.com/akhilshettyym/BABYSPHERE-2.0)
-- 🔹 [Web Dev Snippets](https://github.com/akhilshettyym/Web-Dev)
+---
 
-### 🛠️ Tech Stack
-React · Next.js · Firebase · Java · Tailwind CSS · Convex · PostgreSQL · Git
+## 🚀 About Me
 
-### 📫 Connect with me
-[LinkedIn](https://linkedin.com/in/YOUR-PROFILE) • [Twitter](https://twitter.com/YOUR-HANDLE)
+I'm a Computer Science undergraduate with **3+ years** of hands-on experience building full-stack applications and user-centric digital solutions.  
+My work spans across frontend and backend, UI/UX design, real-time systems, and even a bit of hardware-software integration.
+
+> *"Continuously innovating, endlessly evolving."*
+
+### I specialize in:
+- React, Next.js, Three.js, Firebase, Node.js  
+- UI/UX design with Figma, Tailwind CSS  
+- Cross-platform & real-time applications
+
+---
+
+## 🌍 Portfolio
+
+🔗 [akhilshettym.vercel.app](https://akhilshettym.vercel.app)
