@@ -4,6 +4,6 @@
 
 Delve into my portfolio for a comprehensive exploration of my professional trajectory, technical proficiencies, and the breadth of projects that underscore my commitment to innovation, design excellence, and impactful development.
 
-## 🌍 Portfolio
+## Portfolio
 
-🔗 [akhilshettym.vercel.app](https://akhilshettym.vercel.app)
+🔗 [AKHIL SHETTY M](https://akhilshettym.vercel.app)
