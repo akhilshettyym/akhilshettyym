@@ -7,3 +7,5 @@ Delve into my portfolio for a comprehensive exploration of my professional traje
 ## Portfolio
 
 🔗 [AKHIL SHETTY M](https://akhilshettym.vercel.app)
+
+<a href="https://akhilshettym.vercel.app" target="_blank">🔗 AKHIL SHETTY M</a>
