@@ -8,4 +8,4 @@ Delve into my portfolio for a comprehensive exploration of my professional traje
 
 🔗 [AKHIL SHETTY M](https://akhilshettym.vercel.app)
 
-<a href="https://akhilshettym.vercel.app" target="_blank">🔗 AKHIL SHETTY M</a>
+🔗 [AKHIL SHETTY M](https://akhilshettym.vercel.app) _(opens in same tab — use Ctrl/Cmd+Click for new tab)_
